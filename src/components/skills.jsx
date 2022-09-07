@@ -10,8 +10,10 @@ function Skills() {
         <Card.Body>
           <Card.Title>MERN Stack</Card.Title>
           <Card.Text>
-            This is a wider card with supporting text below as a natural lead-in
-            to additional content. This content is a little bit longer.
+            <div>Developed 4 Projects</div>
+            <div>Realtime WebChat Application</div>
+            <div>Task Manager NodeJS API</div>
+            <div>Crypto Finance Tracker</div>
           </Card.Text>
         </Card.Body>
       </Card>
@@ -21,7 +23,10 @@ function Skills() {
         <Card.Body>
           <Card.Title>Competitive Programming</Card.Title>
           <Card.Text>
-            {"Contest Attended: 60 \n Problems Solved: 750 \n Highest Rating: 1853 ( Knight Badge 🏇🏼 Top 5% ) \n Best Ranking: 1325"}
+            <div>Contest Attended: 60</div>
+            <div>Problems Solved: 750</div>
+            <div>Highest Rating: 1853 ( Knight Badge 🏇🏼 Top 5% )</div>
+            <div>Best Ranking: 1325</div>
           </Card.Text>
         </Card.Body>
       </Card>
