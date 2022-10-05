@@ -19,6 +19,7 @@ function Navigationbar() {
           >
             <Nav.Link href="#action1">Home</Nav.Link>
             <Nav.Link href="#action2">Skills</Nav.Link>
+            <Nav.Link href="#action2">Education</Nav.Link>
             <Nav.Link href="#action2">Resume</Nav.Link>
           </Nav>
           <Form className="d-flex">

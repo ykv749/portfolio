@@ -2,6 +2,8 @@ import React from 'react';
 import Navigationbar from "./components/navbar";
 import ImgOverlay from "./components/starter";
 import Skills from "./components/skills";
+import Footer from "./components/footer";
+import Education from './components/education';
 
 function App() {
   return (
@@ -9,6 +11,8 @@ function App() {
           <Navigationbar />
           <ImgOverlay />
           <Skills />
+          <Education />
+          <Footer />
       </div>
   );
 }

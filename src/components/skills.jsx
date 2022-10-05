@@ -14,6 +14,7 @@ function Skills() {
             <div>Realtime WebChat Application</div>
             <div>Task Manager NodeJS API</div>
             <div>Crypto Finance Tracker</div>
+            <div>Rich Text Editor</div>
           </Card.Text>
         </Card.Body>
       </Card>
@@ -23,10 +24,10 @@ function Skills() {
         <Card.Body>
           <Card.Title>Competitive Programming</Card.Title>
           <Card.Text>
-            <div>Contest Attended: 60</div>
-            <div>Problems Solved: 750</div>
-            <div>Highest Rating: 1853 ( Knight Badge 🏇🏼 Top 5% )</div>
-            <div>Best Ranking: 1325</div>
+            <div>Contest Attended: 65</div>
+            <div>Problems Solved: 800</div>
+            <div>Highest Rating: 1914 ( Knight Badge 🏇🏼 Top 4.12% )</div>
+            <div>Best Rank: 1092</div>
           </Card.Text>
         </Card.Body>
       </Card>
